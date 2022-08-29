@@ -1,10 +1,10 @@
-"""url_replacer(): is a python file that is responsible for containing functionality to replace a 
-given string's spaces with the character sequence '%20'. Sourced From cracking the coding
-interview Chapter 1 question 3.
-"""
+"""url_replacer: is a python file that is responsible for containing functionality to replace a 
+given string's spaces with the character sequence '%20'. 
+
+Sourced from Cracking the Coding Interview Chapter 1 Question 3."""
 
 
-def replacer(input: str) -> str:
+def replacer(input: str):
     """replacer() is a function declaration that is intended for the use for this week's challenge.
     In this functions students will be expected to implement their solution to the problem
     without having to need to modifying existing test cases.
@@ -13,7 +13,7 @@ def replacer(input: str) -> str:
     STDIN.
     @return str: final string after modification.
     """
-    return ""
+    return
 
 
 def main():

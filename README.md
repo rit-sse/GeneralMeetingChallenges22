@@ -9,3 +9,5 @@ These questions will consist in their own file directory and will have a test su
 For the upcoming weeks we will have a directory that will be named under the academic week. within these directories there will be a list of unit tests
 to test student submissions. if a students submission passes the entire test suite they are able to send the tech head their solutions to run and grant
 a new membership.
+
+
