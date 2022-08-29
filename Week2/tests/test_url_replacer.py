@@ -3,7 +3,7 @@ from src.url_replacer import replacer
 
 """test_url_replacer is a test suite responsible for checking the validity of a students
 code submission. This suite is responsible for testing using pytest to run unit tests on the given
-function in url_replacer.py
+function in url_replacer.py.
 """
 
 
