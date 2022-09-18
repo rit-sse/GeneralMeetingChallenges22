@@ -26,6 +26,7 @@ Generalize your function to take in X.
 def stairs(N: int):
     """stairs is a function responsible for testing students code for the
     stairs challenge.
-        N (int): defining the desired target value to calculate stairs.
+    @param N (int): defining the desired target value to calculate stairs.
+    @return list: that contains lists of the numbers that equal that sum.
     """
     pass
